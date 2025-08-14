@@ -1,0 +1,15 @@
+.jumbo{
+    min-width: 100vw;
+    max-height: 70vh;
+}
+.blue-section{
+    display: flex;
+    align-items: center;
+    min-height: 100px;
+    background-color: rgb(62, 136, 247);
+    gap: 20px;
+    justify-content: center;
+}
+.blue-section img {
+    max-height: 60px;
+}

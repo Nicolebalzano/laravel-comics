@@ -1,0 +1,21 @@
+footer {
+    background-image: url("../img/footer-bg.jpg");
+}
+.dc-logo {
+    height: 400px;
+}
+footer li {
+    padding: 0 !important;
+    list-style-type: none;
+}
+footer li:hover {
+    color: rgb(145, 138, 138);
+}
+.flex-column{
+    padding: 0 !important;
+}
+.last-footer{
+    min-height: 100px;
+    background-color: rgb(31, 30, 30);
+    padding: 30px;
+}
